@@ -46,7 +46,11 @@
 	```
 4. 请使用**git提交(commit)，**并**上传(push)**，之后将此github仓库地址(用户自建的) eg:（https://github.com/username/repo） 填入到提交地址一栏
 
+![github-address.png](http://upload-images.jianshu.io/upload_images/1940198-b69aaad5be700d55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 5. 获取分支
+
+![github-branch.png](http://upload-images.jianshu.io/upload_images/1940198-9f4fa6638e0cc0a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 6. 提交
 
